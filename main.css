@@ -1,0 +1,17 @@
+.main_list{
+    display:flex-start;
+}
+   
+.main_list li{
+ margin:5px;
+ display:inline;
+ text-decoration: underline;
+}
+
+.fav_foods_list{
+    display:block;
+    list-style: disc;
+}
+.progress_bar{
+  flex-direction: column;
+}
